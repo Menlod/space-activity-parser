@@ -1,0 +1,972 @@
+[
+  {
+    "id": "1992-001",
+    "date": "21.01.1992",
+    "vehicle": "Soyuz-U",
+    "siteCode": "Pl LC-43/4",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-002",
+    "date": "22.01.1992",
+    "vehicle": "Shuttle",
+    "siteCode": "CCK LC-39A",
+    "site": "NASA John F. Kennedy Space Center, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-003",
+    "date": "24.01.1992",
+    "vehicle": "Molniya-M (Blok-2BL)",
+    "siteCode": "Pl LC-43/3",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-004",
+    "date": "25.01.1992",
+    "vehicle": "Soyuz-U2",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-005",
+    "date": "29.01.1992",
+    "vehicle": "Proton-K Blok-DM-2",
+    "siteCode": "Ba LC-81/23",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-F01",
+    "date": "05.02.1992",
+    "vehicle": "Zenit-2",
+    "siteCode": "Ba LC-45/1",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1992-006",
+    "date": "11.02.1992",
+    "vehicle": "Atlas-2",
+    "siteCode": "CC LC-36B",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-007",
+    "date": "11.02.1992",
+    "vehicle": "H-1 (9 SO)",
+    "siteCode": "Ta LP-N",
+    "site": "Tanegashima Space Center, Tanegashima, Japan",
+    "countryCode": "JP",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-008",
+    "date": "17.02.1992",
+    "vehicle": "Kosmos-3M",
+    "siteCode": "Pl LC-133/3",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-009",
+    "date": "23.02.1992",
+    "vehicle": "Delta-7925",
+    "siteCode": "CC LC-17B",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-010",
+    "date": "26.02.1992",
+    "vehicle": "Ariane-44L H10",
+    "siteCode": "Ko ELA-2",
+    "site": "Centre Spatial Guyanais (CSG), Kourou, French Guiana, France",
+    "countryCode": "FR",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-011",
+    "date": "04.03.1992",
+    "vehicle": "Molniya-M (Blok-ML)",
+    "siteCode": "Pl LC-43/4",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-012",
+    "date": "09.03.1992",
+    "vehicle": "Kosmos-3M",
+    "siteCode": "Pl LC-132/1",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-013",
+    "date": "14.03.1992",
+    "vehicle": "Atlas-1",
+    "siteCode": "CC LC-36B",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-014",
+    "date": "17.03.1992",
+    "vehicle": "Soyuz-U2",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-015",
+    "date": "24.03.1992",
+    "vehicle": "Shuttle",
+    "siteCode": "CCK LC-39A",
+    "site": "NASA John F. Kennedy Space Center, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-016",
+    "date": "01.04.1992",
+    "vehicle": "Soyuz-U",
+    "siteCode": "Pl LC-16/2",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-017",
+    "date": "02.04.1992",
+    "vehicle": "Proton-K Blok-DM-2",
+    "siteCode": "Ba LC-81/23",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-018",
+    "date": "08.04.1992",
+    "vehicle": "Soyuz-U",
+    "siteCode": "Ba LC-31/6",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-019",
+    "date": "10.04.1992",
+    "vehicle": "Delta-7925",
+    "siteCode": "CC LC-17B",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-020",
+    "date": "15.04.1992",
+    "vehicle": "Kosmos-3M",
+    "siteCode": "Pl LC-132/1",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-021",
+    "date": "15.04.1992",
+    "vehicle": "Ariane-44L H10+",
+    "siteCode": "Ko ELA-2",
+    "site": "Centre Spatial Guyanais (CSG), Kourou, French Guiana, France",
+    "countryCode": "FR",
+    "remark": "Version 1st flight",
+    "status": "success"
+  },
+  {
+    "id": "1992-022",
+    "date": "19.04.1992",
+    "vehicle": "Soyuz-U2",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-023",
+    "date": "25.04.1992",
+    "vehicle": "Titan-2(23)G",
+    "siteCode": "Va SLC-4W",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-024",
+    "date": "29.04.1992",
+    "vehicle": "Soyuz-U",
+    "siteCode": "Pl LC-43/3",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-025",
+    "date": "29.04.1992",
+    "vehicle": "Soyuz-U",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-026",
+    "date": "07.05.1992",
+    "vehicle": "Shuttle",
+    "siteCode": "CCK LC-39B",
+    "site": "NASA John F. Kennedy Space Center, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-027",
+    "date": "14.05.1992",
+    "vehicle": "Delta-7925-8",
+    "siteCode": "CC LC-17B",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-028",
+    "date": "20.05.1992",
+    "vehicle": "ASLV",
+    "siteCode": "Sr",
+    "site": "Satish Dhawan Space Center (Sriharikota Space Center), Sriharikota, Andhra Pradesh, India",
+    "countryCode": "IN",
+    "remark": "Partial Failure",
+    "status": "failedp"
+  },
+  {
+    "id": "1992-029",
+    "date": "28.05.1992",
+    "vehicle": "Soyuz-U",
+    "siteCode": "Pl LC-16/2",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-030",
+    "date": "03.06.1992",
+    "vehicle": "Kosmos-3M",
+    "siteCode": "Pl LC-133/3",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-031",
+    "date": "07.06.1992",
+    "vehicle": "Delta-6920-10",
+    "siteCode": "CC LC-17A",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-032",
+    "date": "10.06.1992",
+    "vehicle": "Atlas-2A",
+    "siteCode": "CC LC-36B",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "Version 1st flight",
+    "status": "success"
+  },
+  {
+    "id": "1992-033",
+    "date": "23.06.1992",
+    "vehicle": "Soyuz-U",
+    "siteCode": "Pl LC-43/3",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-034",
+    "date": "25.06.1992",
+    "vehicle": "Shuttle",
+    "siteCode": "CCK LC-39A",
+    "site": "NASA John F. Kennedy Space Center, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-035",
+    "date": "30.06.1992",
+    "vehicle": "Soyuz-U2",
+    "siteCode": "Ba LC-31/6",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-036",
+    "date": "01.07.1992",
+    "vehicle": "Kosmos-3M",
+    "siteCode": "Pl LC-133/3 ?",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-037",
+    "date": "02.07.1992",
+    "vehicle": "Atlas-2",
+    "siteCode": "CC LC-36A",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-038",
+    "date": "03.07.1992",
+    "vehicle": "Scout-G1",
+    "siteCode": "Va SLC-5",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-039",
+    "date": "07.07.1992",
+    "vehicle": "Delta-7925",
+    "siteCode": "CC LC-17B",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-040",
+    "date": "08.07.1992",
+    "vehicle": "Molniya-M (Blok-2BL)",
+    "siteCode": "Pl LC-43/3",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-041",
+    "date": "09.07.1992",
+    "vehicle": "Ariane-44L H10",
+    "siteCode": "Ko ELA-2",
+    "site": "Centre Spatial Guyanais (CSG), Kourou, French Guiana, France",
+    "countryCode": "FR",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-042",
+    "date": "13.07.1992",
+    "vehicle": "Tsiklon-3",
+    "siteCode": "Pl LC-32/1",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-043",
+    "date": "14.07.1992",
+    "vehicle": "Proton-K Blok-DM-2",
+    "siteCode": "Ba LC-81/23",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-044",
+    "date": "24.07.1992",
+    "vehicle": "Delta-6925",
+    "siteCode": "CC LC-17A",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-045",
+    "date": "24.07.1992",
+    "vehicle": "Soyuz-U",
+    "siteCode": "Pl LC-43/3",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-046",
+    "date": "27.07.1992",
+    "vehicle": "Soyuz-U2",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-047",
+    "date": "30.07.1992",
+    "vehicle": "Proton-K Blok-DM-2",
+    "siteCode": "Ba LC-81/23",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-048",
+    "date": "30.07.1992",
+    "vehicle": "Soyuz-U",
+    "siteCode": "Pl LC-43/4",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-049",
+    "date": "31.07.1992",
+    "vehicle": "Shuttle",
+    "siteCode": "CCK LC-39B",
+    "site": "NASA John F. Kennedy Space Center, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-050",
+    "date": "06.08.1992",
+    "vehicle": "Molniya-M (Blok-ML)",
+    "siteCode": "Pl LC-43/3",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-051",
+    "date": "09.08.1992",
+    "vehicle": "CZ-2D",
+    "siteCode": "Jq LC-2/138",
+    "site": "Jiuquan Space Center, Inner Mongolia, China",
+    "countryCode": "CN",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-052",
+    "date": "10.08.1992",
+    "vehicle": "Ariane-42P H10",
+    "siteCode": "Ko ELA-2",
+    "site": "Centre Spatial Guyanais (CSG), Kourou, French Guiana, France",
+    "countryCode": "FR",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-053",
+    "date": "12.08.1992",
+    "vehicle": "Kosmos-3M",
+    "siteCode": "Pl LC-132/1",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-054",
+    "date": "13.08.1992",
+    "vehicle": "CZ-2E",
+    "siteCode": "Xi LC-2",
+    "site": "Xichang Space Center (Songlin), Sichuan, China",
+    "countryCode": "CN",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-055",
+    "date": "15.08.1992",
+    "vehicle": "Soyuz-U2",
+    "siteCode": "Ba LC-31/6",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-056",
+    "date": "19.08.1992",
+    "vehicle": "Soyuz-U",
+    "siteCode": "Pl LC-16/2",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-F02",
+    "date": "22.08.1992",
+    "vehicle": "Atlas-1",
+    "siteCode": "CC LC-36B",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1992-057",
+    "date": "31.08.1992",
+    "vehicle": "Delta-7925",
+    "siteCode": "CC LC-17B",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-058",
+    "date": "09.09.1992",
+    "vehicle": "Delta-7925",
+    "siteCode": "CC LC-17A",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-059",
+    "date": "10.09.1992",
+    "vehicle": "Proton-K Blok-DM-2",
+    "siteCode": "Ba LC-81/23",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-060",
+    "date": "10.09.1992",
+    "vehicle": "Ariane-44LP H10+",
+    "siteCode": "Ko ELA-2",
+    "site": "Centre Spatial Guyanais (CSG), Kourou, French Guiana, France",
+    "countryCode": "FR",
+    "remark": "Version 1st flight",
+    "status": "success"
+  },
+  {
+    "id": "1992-061",
+    "date": "12.09.1992",
+    "vehicle": "Shuttle",
+    "siteCode": "CCK LC-39B",
+    "site": "NASA John F. Kennedy Space Center, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-062",
+    "date": "22.09.1992",
+    "vehicle": "Soyuz-U",
+    "siteCode": "Pl LC-16/2",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-063",
+    "date": "25.09.1992",
+    "vehicle": "Commercial-Titan-3",
+    "siteCode": "CC LC-40",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-064",
+    "date": "06.10.1992",
+    "vehicle": "CZ-2C",
+    "siteCode": "Jq LC-2/138",
+    "site": "Jiuquan Space Center, Inner Mongolia, China",
+    "countryCode": "CN",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-065",
+    "date": "08.10.1992",
+    "vehicle": "Soyuz-U",
+    "siteCode": "Pl LC-43/4",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-066",
+    "date": "12.10.1992",
+    "vehicle": "Delta-7925",
+    "siteCode": "CC LC-17B",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-067",
+    "date": "14.10.1992",
+    "vehicle": "Molniya-M (Blok-ML)",
+    "siteCode": "Pl LC-43/3",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-068",
+    "date": "20.10.1992",
+    "vehicle": "Tsiklon-3",
+    "siteCode": "Pl LC-32/1",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-069",
+    "date": "21.10.1992",
+    "vehicle": "Molniya-M (Blok-2BL)",
+    "siteCode": "Pl LC-16/2",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-070",
+    "date": "22.10.1992",
+    "vehicle": "Shuttle",
+    "siteCode": "CCK LC-39B",
+    "site": "NASA John F. Kennedy Space Center, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-071",
+    "date": "27.10.1992",
+    "vehicle": "Soyuz-U2",
+    "siteCode": "Ba LC-31/6",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-072",
+    "date": "28.10.1992",
+    "vehicle": "Ariane-42P H10+",
+    "siteCode": "Ko ELA-2",
+    "site": "Centre Spatial Guyanais (CSG), Kourou, French Guiana, France",
+    "countryCode": "FR",
+    "remark": "Version 1st flight",
+    "status": "success"
+  },
+  {
+    "id": "1992-073",
+    "date": "29.10.1992",
+    "vehicle": "Kosmos-3M",
+    "siteCode": "Pl LC-133/3",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-074",
+    "date": "30.10.1992",
+    "vehicle": "Proton-K Blok-DM-2",
+    "siteCode": "Ba LC-81/23",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-075",
+    "date": "15.11.1992",
+    "vehicle": "Soyuz-U",
+    "siteCode": "Pl LC-16/2",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-076",
+    "date": "17.11.1992",
+    "vehicle": "Zenit-2",
+    "siteCode": "Ba LC-45/1",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-077",
+    "date": "20.11.1992",
+    "vehicle": "Soyuz-U",
+    "siteCode": "Pl LC-43/4",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-078",
+    "date": "21.11.1992",
+    "vehicle": "Scout-G1",
+    "siteCode": "Va SLC-5",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-079",
+    "date": "22.11.1992",
+    "vehicle": "Delta-7925",
+    "siteCode": "CC LC-17A",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-080",
+    "date": "24.11.1992",
+    "vehicle": "Tsiklon-3",
+    "siteCode": "Pl LC-32/2 ?",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-081",
+    "date": "25.11.1992",
+    "vehicle": "Molniya-M (Blok-2BL)",
+    "siteCode": "Pl LC-43/3",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-082",
+    "date": "27.11.1992",
+    "vehicle": "Proton-K Blok-DM-2",
+    "siteCode": "Ba LC-81/23",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-083",
+    "date": "28.11.1992",
+    "vehicle": "Titan-4(04)A",
+    "siteCode": "Va SLC-4E",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-084",
+    "date": "01.12.1992",
+    "vehicle": "Ariane-42P H10+",
+    "siteCode": "Ko ELA-2",
+    "site": "Centre Spatial Guyanais (CSG), Kourou, French Guiana, France",
+    "countryCode": "FR",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-085",
+    "date": "02.12.1992",
+    "vehicle": "Molniya-M (Blok-ML)",
+    "siteCode": "Pl LC-43/3",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-086",
+    "date": "02.12.1992",
+    "vehicle": "Shuttle",
+    "siteCode": "CCK LC-39A",
+    "site": "NASA John F. Kennedy Space Center, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-087",
+    "date": "09.12.1992",
+    "vehicle": "Soyuz-U",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-088",
+    "date": "17.12.1992",
+    "vehicle": "Proton-K Blok-DM-2",
+    "siteCode": "Ba LC-200/39",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-089",
+    "date": "18.12.1992",
+    "vehicle": "Delta-7925",
+    "siteCode": "CC LC-17B",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-090",
+    "date": "21.12.1992",
+    "vehicle": "CZ-2E",
+    "siteCode": "Xi LC-2",
+    "site": "Xichang Space Center (Songlin), Sichuan, China",
+    "countryCode": "CN",
+    "remark": "Partial Failure''",
+    "status": "failedp"
+  },
+  {
+    "id": "1992-091",
+    "date": "22.12.1992",
+    "vehicle": "Soyuz-U",
+    "siteCode": "Ba LC-31/6",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-092",
+    "date": "22.12.1992",
+    "vehicle": "Tsiklon-3",
+    "siteCode": "Pl LC-32/2",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-093",
+    "date": "25.12.1992",
+    "vehicle": "Zenit-2",
+    "siteCode": "Ba LC-45/1",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-094",
+    "date": "25.12.1992",
+    "vehicle": "Tsiklon-3",
+    "siteCode": "Pl LC-32/2",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1992-095",
+    "date": "29.12.1992",
+    "vehicle": "Soyuz-U",
+    "siteCode": "Pl LC-43/3",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  }
+]

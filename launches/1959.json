@@ -1,0 +1,252 @@
+[
+  {
+    "id": "1959 μ* (001)",
+    "date": "02.01.1959",
+    "vehicle": "Vostok-L",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1959-E01",
+    "date": "21.01.1959",
+    "vehicle": "Thor-DM18 Agena-A",
+    "siteCode": "Va 75-3-4",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "Failure before launch",
+    "status": "success"
+  },
+  {
+    "id": "1959 α (002)",
+    "date": "17.02.1959",
+    "vehicle": "Vanguard",
+    "siteCode": "CC LC-18A",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1959 β (003)†",
+    "date": "28.02.1959",
+    "vehicle": "Thor-DM18 Agena-A",
+    "siteCode": "Va 75-3-4",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1959 ν* (004)",
+    "date": "03.03.1959",
+    "vehicle": "Juno-2",
+    "siteCode": "CC LC-5",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1959 γ (005)",
+    "date": "13.04.1959",
+    "vehicle": "Thor-DM18 Agena-A",
+    "siteCode": "Va 75-3-4",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1959-F01",
+    "date": "14.04.1959",
+    "vehicle": "Vanguard",
+    "siteCode": "CC LC-18A",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1959-F02",
+    "date": "03.06.1959",
+    "vehicle": "Thor-DM18\n    Agena-A",
+    "siteCode": "Va 75-3-4",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1959-F03",
+    "date": "18.06.1959",
+    "vehicle": "Vostok-L",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1959-F04",
+    "date": "22.06.1959",
+    "vehicle": "Vanguard",
+    "siteCode": "CC LC-18A",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1959-F05",
+    "date": "25.06.1959",
+    "vehicle": "Thor-DM18 Agena-A",
+    "siteCode": "Va 75-3-5",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1959-F06",
+    "date": "16.07.1959",
+    "vehicle": "Juno-2",
+    "siteCode": "CC LC-5",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1959 δ (006)",
+    "date": "07.08.1959",
+    "vehicle": "Thor-DM18 Able-3",
+    "siteCode": "CC LC-17A",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1959 ε (007)",
+    "date": "13.08.1959",
+    "vehicle": "Thor-DM18 Agena-A",
+    "siteCode": "Va 75-3-4",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1959-F07",
+    "date": "15.08.1959",
+    "vehicle": "Juno-2 (3 St.)",
+    "siteCode": "CC LC-26B",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1959 ζ (008)",
+    "date": "19.08.1959",
+    "vehicle": "Thor-DM18 Agena-A",
+    "siteCode": "Va 75-3-5",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1959 ξ* (009)",
+    "date": "12.09.1959",
+    "vehicle": "Vostok-L",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1959-F08",
+    "date": "17.09.1959",
+    "vehicle": "Thor-DM18 Able-2 (mod.)",
+    "siteCode": "CC LC-17A",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1959 η (010)",
+    "date": "18.09.1959",
+    "vehicle": "Vanguard (mod.)",
+    "siteCode": "CC LC-18A",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "Partial Failure",
+    "status": "failedp"
+  },
+  {
+    "id": "1959-E02",
+    "date": "24.09.1959",
+    "vehicle": "Atlas-C Able",
+    "siteCode": "CC LC-14",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "Failure before launch",
+    "status": "success"
+  },
+  {
+    "id": "1959 θ (011)",
+    "date": "04.10.1959",
+    "vehicle": "Vostok-L",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1959 ι (012)",
+    "date": "13.10.1959",
+    "vehicle": "Juno-2",
+    "siteCode": "CC LC-5",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1959 κ (013)",
+    "date": "07.11.1959",
+    "vehicle": "Thor-DM18 Agena-A",
+    "siteCode": "Va 75-3-4",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1959 λ (014)",
+    "date": "20.11.1959",
+    "vehicle": "Thor-DM18 Agena-A",
+    "siteCode": "Va 75-3-5",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "Partial Failure",
+    "status": "failedp"
+  },
+  {
+    "id": "1959-F09",
+    "date": "26.11.1959",
+    "vehicle": "Atlas-D Able",
+    "siteCode": "CC LC-14",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "Failure",
+    "status": "failed"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "id": "1995-001",
+    "date": "10.01.1995",
+    "vehicle": "Atlas-2AS",
+    "siteCode": "CC LC-36B",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-U01",
+    "date": "15.01.1995",
+    "vehicle": "M-3S-2",
+    "siteCode": "Ka LP-M",
+    "site": "Unknown",
+    "countryCode": "Unknown",
+    "remark": "Partial Failure",
+    "status": "failedp"
+  },
+  {
+    "id": "1995-002",
+    "date": "24.01.1995",
+    "vehicle": "Kosmos-3M",
+    "siteCode": "Pl LC-132/1",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-F01",
+    "date": "25.01.1995",
+    "vehicle": "CZ-2E",
+    "siteCode": "Xi LC-2",
+    "site": "Xichang Space Center (Songlin), Sichuan, China",
+    "countryCode": "CN",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1995-003",
+    "date": "29.01.1995",
+    "vehicle": "Atlas-2",
+    "siteCode": "CC LC-36A",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-004",
+    "date": "03.02.1995",
+    "vehicle": "Shuttle",
+    "siteCode": "CCK LC-39B",
+    "site": "NASA John F. Kennedy Space Center, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-005",
+    "date": "15.02.1995",
+    "vehicle": "Soyuz-U",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-006",
+    "date": "16.02.1995",
+    "vehicle": "Soyuz-U",
+    "siteCode": "Pl LC-43/4",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-007",
+    "date": "02.03.1995",
+    "vehicle": "Shuttle",
+    "siteCode": "CCK LC-39A",
+    "site": "NASA John F. Kennedy Space Center, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-008",
+    "date": "02.03.1995",
+    "vehicle": "Kosmos-3M",
+    "siteCode": "Pl LC-132/1",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-009",
+    "date": "07.03.1995",
+    "vehicle": "Proton-K Blok-DM-2",
+    "siteCode": "Ba LC-200/39",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-010",
+    "date": "14.03.1995",
+    "vehicle": "Soyuz-U2",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-011",
+    "date": "18.03.1995",
+    "vehicle": "H-2 + SSB",
+    "siteCode": "Ta YLP-1",
+    "site": "Tanegashima Space Center, Tanegashima, Japan",
+    "countryCode": "JP",
+    "remark": "Version 1st flight",
+    "status": "success"
+  },
+  {
+    "id": "1995-012",
+    "date": "22.03.1995",
+    "vehicle": "Kosmos-3M",
+    "siteCode": "Pl LC-132/1",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-013",
+    "date": "22.03.1995",
+    "vehicle": "Atlas-2AS",
+    "siteCode": "CC LC-36B",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-014",
+    "date": "22.03.1995",
+    "vehicle": "Soyuz-U",
+    "siteCode": "Pl LC-43/3",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-015",
+    "date": "24.03.1995",
+    "vehicle": "Atlas-E Star-37S-ISS",
+    "siteCode": "Va SLC-3W",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-F02",
+    "date": "28.03.1995",
+    "vehicle": "Start",
+    "siteCode": "Pl",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "Version 1st flight, \n    Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1995-016",
+    "date": "28.03.1995",
+    "vehicle": "Ariane-44LP H10+",
+    "siteCode": "Ko ELA-2",
+    "site": "Centre Spatial Guyanais (CSG), Kourou, French Guiana, France",
+    "countryCode": "FR",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-017",
+    "date": "03.04.1995",
+    "vehicle": "Pegasus-H [L-1011]",
+    "siteCode": "Va RW30/12",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "Version 1st flight",
+    "status": "success"
+  },
+  {
+    "id": "1995-018",
+    "date": "05.04.1995",
+    "vehicle": "Shavit",
+    "siteCode": "Pa",
+    "site": "Unknown",
+    "countryCode": "Unknown",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-019",
+    "date": "07.04.1995",
+    "vehicle": "Atlas-2A",
+    "siteCode": "CC LC-36A",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-020",
+    "date": "09.04.1995",
+    "vehicle": "Soyuz-U",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-021",
+    "date": "21.04.1995",
+    "vehicle": "Ariane-40 H10+",
+    "siteCode": "Ko ELA-2",
+    "site": "Centre Spatial Guyanais (CSG), Kourou, French Guiana, France",
+    "countryCode": "FR",
+    "remark": "Version 1st flight",
+    "status": "success"
+  },
+  {
+    "id": "1995-022",
+    "date": "14.05.1995",
+    "vehicle": "Titan-4(01)A Centaur-T",
+    "siteCode": "CC LC-40",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-023",
+    "date": "17.05.1995",
+    "vehicle": "Ariane-44LP H10-3",
+    "siteCode": "Ko ELA-2",
+    "site": "Centre Spatial Guyanais (CSG), Kourou, French Guiana, France",
+    "countryCode": "FR",
+    "remark": "Version 1st flight",
+    "status": "success"
+  },
+  {
+    "id": "1995-024",
+    "date": "20.05.1995",
+    "vehicle": "Proton-K",
+    "siteCode": "Ba LC-81/23",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-025",
+    "date": "23.05.1995",
+    "vehicle": "Atlas-1",
+    "siteCode": "CC LC-36B",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-026",
+    "date": "24.05.1995",
+    "vehicle": "Molniya-M (Blok-2BL)",
+    "siteCode": "Pl LC-16/2",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-027",
+    "date": "31.05.1995",
+    "vehicle": "Atlas-2",
+    "siteCode": "CC LC-36A",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-028",
+    "date": "08.06.1995",
+    "vehicle": "Tsiklon-2",
+    "siteCode": "Ba LC-90/20",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-029",
+    "date": "10.06.1995",
+    "vehicle": "Ariane-42P H10-3",
+    "siteCode": "Ko ELA-2",
+    "site": "Centre Spatial Guyanais (CSG), Kourou, French Guiana, France",
+    "countryCode": "FR",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-F03",
+    "date": "22.06.1995",
+    "vehicle": "Pegasus-XL [L-1011]",
+    "siteCode": "Va RW30/12",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1995-030",
+    "date": "27.06.1995",
+    "vehicle": "Shuttle",
+    "siteCode": "CCK LC-39A",
+    "site": "NASA John F. Kennedy Space Center, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-031",
+    "date": "28.06.1995",
+    "vehicle": "Soyuz-U",
+    "siteCode": "Pl LC-43/3",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-032",
+    "date": "05.07.1995",
+    "vehicle": "Kosmos-3M",
+    "siteCode": "Pl LC-132/1",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-033",
+    "date": "07.07.1995",
+    "vehicle": "Ariane-40 H10-3",
+    "siteCode": "Ko ELA-2",
+    "site": "Centre Spatial Guyanais (CSG), Kourou, French Guiana, France",
+    "countryCode": "FR",
+    "remark": "Version 1st flight",
+    "status": "success"
+  },
+  {
+    "id": "1995-034",
+    "date": "10.07.1995",
+    "vehicle": "Titan-4(01)A Centaur-T",
+    "siteCode": "CC LC-41",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-035",
+    "date": "13.07.1995",
+    "vehicle": "Shuttle",
+    "siteCode": "CCK LC-39A",
+    "site": "NASA John F. Kennedy Space Center, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-036",
+    "date": "20.07.1995",
+    "vehicle": "Soyuz-U",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-037",
+    "date": "24.07.1995",
+    "vehicle": "Proton-K Blok-DM-2",
+    "siteCode": "Ba LC-200/39",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-038",
+    "date": "31.07.1995",
+    "vehicle": "Atlas-2A",
+    "siteCode": "CC LC-36A",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-039",
+    "date": "02.08.1995",
+    "vehicle": "Molniya-M (Blok-2BL)",
+    "siteCode": "Pl LC-43/3",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-040",
+    "date": "03.08.1995",
+    "vehicle": "Ariane-42L H10-3",
+    "siteCode": "Ko ELA-2",
+    "site": "Centre Spatial Guyanais (CSG), Kourou, French Guiana, France",
+    "countryCode": "FR",
+    "remark": "Version 1st flight",
+    "status": "success"
+  },
+  {
+    "id": "1995-041",
+    "date": "05.08.1995",
+    "vehicle": "Delta-7925",
+    "siteCode": "CC LC-17B",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "Partial Failure",
+    "status": "failedp"
+  },
+  {
+    "id": "1995-042",
+    "date": "09.08.1995",
+    "vehicle": "Molniya-M (Blok-ML)",
+    "siteCode": "Pl LC-43/3",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-F04",
+    "date": "15.08.1995",
+    "vehicle": "LLV-1 (Athena-1)",
+    "siteCode": "Va SLC-6",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "Version 1st flight, Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1995-043",
+    "date": "29.08.1995",
+    "vehicle": "Atlas-2AS",
+    "siteCode": "CC LC-36B",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-044",
+    "date": "29.08.1995",
+    "vehicle": "Ariane-44P H10-3",
+    "siteCode": "Ko ELA-2",
+    "site": "Centre Spatial Guyanais (CSG), Kourou, French Guiana, France",
+    "countryCode": "FR",
+    "remark": "Version 1st flight",
+    "status": "success"
+  },
+  {
+    "id": "1995-045",
+    "date": "30.08.1995",
+    "vehicle": "Proton-K Blok-DM-2",
+    "siteCode": "Ba LC-200/39",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-046",
+    "date": "31.08.1995",
+    "vehicle": "Tsiklon-3",
+    "siteCode": "Pl LC-32/2",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-047",
+    "date": "03.09.1995",
+    "vehicle": "Soyuz-U2",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-048",
+    "date": "07.09.1995",
+    "vehicle": "Shuttle",
+    "siteCode": "CCK LC-39A",
+    "site": "NASA John F. Kennedy Space Center, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-049",
+    "date": "24.09.1995",
+    "vehicle": "Ariane-42L H10-3",
+    "siteCode": "Ko ELA-2",
+    "site": "Centre Spatial Guyanais (CSG), Kourou, French Guiana, France",
+    "countryCode": "FR",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-050",
+    "date": "26.09.1995",
+    "vehicle": "Soyuz-U",
+    "siteCode": "Pl LC-43/4",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-051",
+    "date": "29.09.1995",
+    "vehicle": "Soyuz-U",
+    "siteCode": "Ba LC-31/6",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-052",
+    "date": "06.10.1995",
+    "vehicle": "Kosmos-3M",
+    "siteCode": "Pl LC-132/1",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "Partial Failure",
+    "status": "failedp"
+  },
+  {
+    "id": "1995-053",
+    "date": "08.10.1995",
+    "vehicle": "Soyuz-U",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-054",
+    "date": "11.10.1995",
+    "vehicle": "Proton-K Blok-DM-2",
+    "siteCode": "Ba LC-81/23",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-055",
+    "date": "19.10.1995",
+    "vehicle": "Ariane-42L H10-3",
+    "siteCode": "Ko ELA-2",
+    "site": "Centre Spatial Guyanais (CSG), Kourou, French Guiana, France",
+    "countryCode": "FR",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-056",
+    "date": "20.10.1995",
+    "vehicle": "Shuttle",
+    "siteCode": "CCK LC-39B",
+    "site": "NASA John F. Kennedy Space Center, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-057",
+    "date": "22.10.1995",
+    "vehicle": "Atlas-2",
+    "siteCode": "CC LC-36A",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-F05",
+    "date": "23.10.1995",
+    "vehicle": "Conestoga-1620",
+    "siteCode": "WI LA-0A",
+    "site": "Wallops Flight Facility, Wallops Island, Virginia, USA",
+    "countryCode": "US",
+    "remark": "Version 1st flight, Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1995-058",
+    "date": "31.10.1995",
+    "vehicle": "Zenit-2",
+    "siteCode": "Ba LC-45/1",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-059",
+    "date": "04.11.1995",
+    "vehicle": "Delta-7920-10",
+    "siteCode": "Va SLC-2W",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "Version 1st flight",
+    "status": "success"
+  },
+  {
+    "id": "1995-060",
+    "date": "06.11.1995",
+    "vehicle": "Titan-4(01)A Centaur-T",
+    "siteCode": "CC LC-40",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-061",
+    "date": "12.11.1995",
+    "vehicle": "Shuttle",
+    "siteCode": "CCK LC-39A",
+    "site": "NASA John F. Kennedy Space Center, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-062",
+    "date": "17.11.1995",
+    "vehicle": "Ariane-44P H10-3",
+    "siteCode": "Ko ELA-2",
+    "site": "Centre Spatial Guyanais (CSG), Kourou, French Guiana, France",
+    "countryCode": "FR",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-063",
+    "date": "17.11.1995",
+    "vehicle": "Proton-K Blok-DM-2",
+    "siteCode": "Ba LC-200/39",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-064",
+    "date": "28.11.1995",
+    "vehicle": "CZ-2E",
+    "siteCode": "Xi LC-2",
+    "site": "Xichang Space Center (Songlin), Sichuan, China",
+    "countryCode": "CN",
+    "remark": "Partial Failure",
+    "status": "failedp"
+  },
+  {
+    "id": "1995-065",
+    "date": "02.12.1995",
+    "vehicle": "Atlas-2AS",
+    "siteCode": "CC LC-36B",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-066",
+    "date": "05.12.1995",
+    "vehicle": "Titan-4(04)A",
+    "siteCode": "Va SLC-4E",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-067",
+    "date": "06.12.1995",
+    "vehicle": "Ariane-44L H10-3",
+    "siteCode": "Ko ELA-2",
+    "site": "Centre Spatial Guyanais (CSG), Kourou, French Guiana, France",
+    "countryCode": "FR",
+    "remark": "Version 1st flight",
+    "status": "success"
+  },
+  {
+    "id": "1995-068",
+    "date": "14.12.1995",
+    "vehicle": "Proton-K Blok-DM-2",
+    "siteCode": "Ba LC-200/39",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-069",
+    "date": "15.12.1995",
+    "vehicle": "Atlas-2A",
+    "siteCode": "CC LC-36A",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-070",
+    "date": "18.12.1995",
+    "vehicle": "Soyuz-U",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-071",
+    "date": "20.12.1995",
+    "vehicle": "Tsiklon-2",
+    "siteCode": "Ba LC-90/20",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-072",
+    "date": "28.12.1995",
+    "vehicle": "Molniya-M (Blok-2BL)",
+    "siteCode": "Ba LC-31/6",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-073",
+    "date": "28.12.1995",
+    "vehicle": "CZ-2E",
+    "siteCode": "Xi LC-2",
+    "site": "Xichang Space Center (Songlin), Sichuan, China",
+    "countryCode": "CN",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1995-074",
+    "date": "30.12.1995",
+    "vehicle": "Delta-7920-10",
+    "siteCode": "CC LC-17A",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  }
+]

@@ -1,0 +1,1342 @@
+[
+  {
+    "id": "1971-001",
+    "date": "12.01.1971",
+    "vehicle": "Voskhod",
+    "siteCode": "Ba LC-31/6",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-002",
+    "date": "14.01.1971",
+    "vehicle": "Kosmos-2",
+    "siteCode": "Pl LC-133/1",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-003",
+    "date": "20.01.1971",
+    "vehicle": "Vostok-2M",
+    "siteCode": "Pl LC-41/1",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-004",
+    "date": "21.01.1971",
+    "vehicle": "Voskhod",
+    "siteCode": "Ba LC-31/6",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-005",
+    "date": "21.01.1971",
+    "vehicle": "Titan-3(23)B Agena-D",
+    "siteCode": "Va SLC-4W",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-006",
+    "date": "26.01.1971",
+    "vehicle": "Atlas-SLV3C Centaur-D",
+    "siteCode": "CC LC-36A",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-007",
+    "date": "26.01.1971",
+    "vehicle": "Kosmos-2",
+    "siteCode": "Pl LC-133/1",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-008",
+    "date": "31.01.1971",
+    "vehicle": "Saturn-5",
+    "siteCode": "CCK LC-39A",
+    "site": "NASA John F. Kennedy Space Center, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-009",
+    "date": "03.02.1971",
+    "vehicle": "Delta-M",
+    "siteCode": "CC LC-17A",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-010",
+    "date": "09.02.1971",
+    "vehicle": "Kosmos-3M",
+    "siteCode": "Pl LC-132/1",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-011",
+    "date": "16.02.1971",
+    "vehicle": "M-4S",
+    "siteCode": "Ka LP-M",
+    "site": "Unknown",
+    "countryCode": "Unknown",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-012",
+    "date": "17.02.1971",
+    "vehicle": "Thor-LV2F Burner-2",
+    "siteCode": "Va SLC-10W",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-F01",
+    "date": "17.02.1971",
+    "vehicle": "Thorad-SLV2H Agena-D",
+    "siteCode": "Va SLC-3W",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1971-013",
+    "date": "17.02.1971",
+    "vehicle": "Kosmos-3M",
+    "siteCode": "Pl LC-132/1",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-014",
+    "date": "18.02.1971",
+    "vehicle": "Voskhod",
+    "siteCode": "Pl LC-43/3",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-015",
+    "date": "25.02.1971",
+    "vehicle": "Tsiklon-2",
+    "siteCode": "Ba LC-90/20",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-016",
+    "date": "26.02.1971",
+    "vehicle": "Soyuz-L",
+    "siteCode": "Ba LC-31/6",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-017",
+    "date": "03.03.1971",
+    "vehicle": "Voskhod",
+    "siteCode": "Ba LC-31/6",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-018",
+    "date": "03.03.1971",
+    "vehicle": "CZ-1",
+    "siteCode": "Jq LC-2/5020",
+    "site": "Jiuquan Space Center, Inner Mongolia, China",
+    "countryCode": "CN",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-F02",
+    "date": "05.03.1971",
+    "vehicle": "Voskhod",
+    "siteCode": "Pl LC-43/4",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1971-F03",
+    "date": "05.03.1971",
+    "vehicle": "Kosmos-2",
+    "siteCode": "KY LC-86/4",
+    "site": "Unknown",
+    "countryCode": "Unknown",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1971-019",
+    "date": "13.03.1971",
+    "vehicle": "Delta-M6",
+    "siteCode": "CC LC-17A",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-020",
+    "date": "18.03.1971",
+    "vehicle": "Kosmos-3M",
+    "siteCode": "Pl LC-132/1",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-021",
+    "date": "21.03.1971",
+    "vehicle": "Titan-3(33)B Agena-D",
+    "siteCode": "Va SLC-4W",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-022",
+    "date": "24.03.1971",
+    "vehicle": "Thorad-SLV2H Agena-D",
+    "siteCode": "Va SLC-3W",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-023",
+    "date": "27.03.1971",
+    "vehicle": "Voskhod",
+    "siteCode": "Pl LC-43/4",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-024",
+    "date": "01.04.1971",
+    "vehicle": "Delta-E1",
+    "siteCode": "Va SLC-2E",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-025",
+    "date": "01.04.1971",
+    "vehicle": "Tsiklon-2",
+    "siteCode": "Ba LC-90/19",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-026",
+    "date": "02.04.1971",
+    "vehicle": "Voskhod",
+    "siteCode": "Pl LC-43/3",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-027",
+    "date": "04.04.1971",
+    "vehicle": "Tsiklon-2",
+    "siteCode": "Ba LC-90/20",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-028",
+    "date": "07.04.1971",
+    "vehicle": "Vostok-2M",
+    "siteCode": "Pl LC-43/4",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-029",
+    "date": "14.04.1971",
+    "vehicle": "Voskhod",
+    "siteCode": "Pl LC-43/3",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-030",
+    "date": "15.04.1971",
+    "vehicle": "Diamant-B",
+    "siteCode": "Ko ELD",
+    "site": "Centre Spatial Guyanais (CSG), Kourou, French Guiana, France",
+    "countryCode": "FR",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-031",
+    "date": "17.04.1971",
+    "vehicle": "Vostok-2M",
+    "siteCode": "Pl LC-43/4",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-032",
+    "date": "19.04.1971",
+    "vehicle": "Proton-K",
+    "siteCode": "Ba LC-81/24",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-033",
+    "date": "22.04.1971",
+    "vehicle": "Titan-3(23)B Agena-D",
+    "siteCode": "Va SLC-4W",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-034",
+    "date": "22.04.1971",
+    "vehicle": "Soyuz",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-035",
+    "date": "23.04.1971",
+    "vehicle": "Kosmos-3M",
+    "siteCode": "Pl LC-132/1",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-036",
+    "date": "24.04.1971",
+    "vehicle": "Scout-B",
+    "siteCode": "SM",
+    "site": "Unknown",
+    "countryCode": "Unknown",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-037",
+    "date": "24.04.1971",
+    "vehicle": "Kosmos-2",
+    "siteCode": "Pl LC-133/1",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-038",
+    "date": "28.04.1971",
+    "vehicle": "Kosmos-3M",
+    "siteCode": "Pl LC-132/1",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-039",
+    "date": "05.05.1971",
+    "vehicle": "Titan-3(23)C",
+    "siteCode": "CC LC-40",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-040",
+    "date": "06.05.1971",
+    "vehicle": "Voskhod",
+    "siteCode": "Ba LC-31/6",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-041",
+    "date": "07.05.1971",
+    "vehicle": "Kosmos-3M",
+    "siteCode": "Pl LC-132/1",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-F04",
+    "date": "09.05.1971",
+    "vehicle": "Atlas-SLV3C Centaur-D",
+    "siteCode": "CC LC-36A",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1971-042",
+    "date": "10.05.1971",
+    "vehicle": "Proton-K Blok-D",
+    "siteCode": "Ba LC-81/23",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "Partial Failure",
+    "status": "failedp"
+  },
+  {
+    "id": "1971-043",
+    "date": "18.05.1971",
+    "vehicle": "Voskhod",
+    "siteCode": "Ba LC-31/6",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-044",
+    "date": "19.05.1971",
+    "vehicle": "Kosmos-2",
+    "siteCode": "Pl LC-133/1",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-045",
+    "date": "19.05.1971",
+    "vehicle": "Proton-K Blok-D",
+    "siteCode": "Ba LC-81/24",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-046",
+    "date": "22.05.1971",
+    "vehicle": "Kosmos-3M",
+    "siteCode": "Pl LC-132/1",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-047",
+    "date": "27.05.1971",
+    "vehicle": "Kosmos-2",
+    "siteCode": "Pl LC-133/1",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-048",
+    "date": "28.05.1971",
+    "vehicle": "Voskhod",
+    "siteCode": "Pl LC-43/4",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-049",
+    "date": "28.05.1971",
+    "vehicle": "Proton-K Blok-D",
+    "siteCode": "Ba LC-81/23",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-050",
+    "date": "29.05.1971",
+    "vehicle": "Kosmos-3M",
+    "siteCode": "Pl LC-132/1",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-051",
+    "date": "30.05.1971",
+    "vehicle": "Atlas-SLV3C Centaur-D",
+    "siteCode": "CC LC-36B",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-052",
+    "date": "04.06.1971",
+    "vehicle": "Kosmos-3M",
+    "siteCode": "Pl LC-132/2",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-053",
+    "date": "06.06.1971",
+    "vehicle": "Soyuz",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-054",
+    "date": "08.06.1971",
+    "vehicle": "Thor-LV2F Burner-2",
+    "siteCode": "Va SLC-10W",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-055",
+    "date": "11.06.1971",
+    "vehicle": "Voskhod",
+    "siteCode": "Pl LC-43/4",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-056",
+    "date": "15.06.1971",
+    "vehicle": "Titan-3D",
+    "siteCode": "Va SLC-4E",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-057",
+    "date": "24.06.1971",
+    "vehicle": "Voskhod",
+    "siteCode": "Ba LC-31/6",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-F05",
+    "date": "25.06.1971",
+    "vehicle": "Voskhod",
+    "siteCode": "Pl LC-43/4",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1971-F06",
+    "date": "26.06.1971",
+    "vehicle": "N1/L3 Blok-G Blok-D",
+    "siteCode": "Ba LC-110L",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1971-058",
+    "date": "08.07.1971",
+    "vehicle": "Scout-B",
+    "siteCode": "WI LA-3",
+    "site": "Wallops Flight Facility, Wallops Island, Virginia, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-059",
+    "date": "16.07.1971",
+    "vehicle": "Vostok-2M",
+    "siteCode": "Pl LC-43/4",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-060",
+    "date": "16.07.1971",
+    "vehicle": "Thorad-SLV2H Agena-D",
+    "siteCode": "Va SLC-1W",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-061",
+    "date": "20.07.1971",
+    "vehicle": "Voskhod",
+    "siteCode": "Ba LC-31/6",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-F07",
+    "date": "22.07.1971",
+    "vehicle": "Kosmos-3M",
+    "siteCode": "Pl LC-132/2",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1971-062",
+    "date": "23.07.1971",
+    "vehicle": "Voskhod",
+    "siteCode": "Pl LC-43/3",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-063",
+    "date": "26.07.1971",
+    "vehicle": "Saturn-5",
+    "siteCode": "CCK LC-39A",
+    "site": "NASA John F. Kennedy Space Center, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-064",
+    "date": "28.07.1971",
+    "vehicle": "Molniya-M (Blok-ML)",
+    "siteCode": "Pl LC-43/4",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-065",
+    "date": "30.07.1971",
+    "vehicle": "Voskhod",
+    "siteCode": "Ba LC-31/6",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-F07",
+    "date": "03.08.1971",
+    "vehicle": "Kosmos-2",
+    "siteCode": "Pl LC-133/1",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1971-066",
+    "date": "05.08.1971",
+    "vehicle": "Voskhod",
+    "siteCode": "Ba LC-31/6",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-067",
+    "date": "07.08.1971",
+    "vehicle": "Atlas-F OV1 (2×)",
+    "siteCode": "Va BMRS-A2",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-068",
+    "date": "08.08.1971",
+    "vehicle": "R-36-O",
+    "siteCode": "Ba LC-191/66",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-069",
+    "date": "12.08.1971",
+    "vehicle": "Soyuz-L",
+    "siteCode": "Ba LC-31/6",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-070",
+    "date": "12.08.1971",
+    "vehicle": "Titan-3(24)B Agena-D",
+    "siteCode": "Va SLC-4W",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-071",
+    "date": "16.08.1971",
+    "vehicle": "Scout-B1",
+    "siteCode": "WI LA-3",
+    "site": "Wallops Flight Facility, Wallops Island, Virginia, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-F09",
+    "date": "19.08.1971",
+    "vehicle": "Voskhod",
+    "siteCode": "Ba LC-31/6",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1971-072",
+    "date": "27.08.1971",
+    "vehicle": "Kosmos-2",
+    "siteCode": "Pl LC-133/1",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-073",
+    "date": "02.09.1971",
+    "vehicle": "Proton-K Blok-D",
+    "siteCode": "Ba LC-81/24",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-074",
+    "date": "07.09.1971",
+    "vehicle": "Kosmos-3M",
+    "siteCode": "Pl LC-132/2",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-075",
+    "date": "10.09.1971",
+    "vehicle": "Kosmos-3M",
+    "siteCode": "Pl LC-132/2",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-076",
+    "date": "10.09.1971",
+    "vehicle": "Thorad-SLV2H Agena-D",
+    "siteCode": "Va SLC-3W",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-077",
+    "date": "14.09.1971",
+    "vehicle": "Voskhod",
+    "siteCode": "Pl LC-41/1",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-078",
+    "date": "21.09.1971",
+    "vehicle": "Voskhod",
+    "siteCode": "Pl LC-43/3",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-079",
+    "date": "24.09.1971",
+    "vehicle": "Kosmos-2",
+    "siteCode": "Pl LC-133/1",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-080",
+    "date": "28.09.1971",
+    "vehicle": "M-4S",
+    "siteCode": "Ka LP-M",
+    "site": "Unknown",
+    "countryCode": "Unknown",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-081",
+    "date": "28.09.1971",
+    "vehicle": "Voskhod",
+    "siteCode": "Ba LC-31/6",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-082",
+    "date": "28.09.1971",
+    "vehicle": "Proton-K Blok-D",
+    "siteCode": "Ba LC-81/24",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-083",
+    "date": "29.09.1971",
+    "vehicle": "Delta-N",
+    "siteCode": "CC LC-17A",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-084",
+    "date": "29.09.1971",
+    "vehicle": "Voskhod",
+    "siteCode": "Pl LC-43/3",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-085",
+    "date": "07.10.1971",
+    "vehicle": "Voskhod",
+    "siteCode": "Pl LC-43/3",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-086",
+    "date": "13.10.1971",
+    "vehicle": "Kosmos-3M",
+    "siteCode": "Pl LC-132/2",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-087",
+    "date": "14.10.1971",
+    "vehicle": "Thor-LV2F Burner-2A",
+    "siteCode": "Va SLC-10W",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-088",
+    "date": "14.10.1971",
+    "vehicle": "Voskhod",
+    "siteCode": "Ba LC-31/6",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-089",
+    "date": "17.10.1971",
+    "vehicle": "Thorad-SLV2G Agena-D",
+    "siteCode": "Va SLC-1W",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-090",
+    "date": "19.10.1971",
+    "vehicle": "Kosmos-2",
+    "siteCode": "Pl LC-133/1",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-091",
+    "date": "21.10.1971",
+    "vehicle": "Delta-N6",
+    "siteCode": "Va SLC-2E",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "Failure / only fragments reached orbit",
+    "status": "failed"
+  },
+  {
+    "id": "1971-092",
+    "date": "23.10.1971",
+    "vehicle": "Titan-3(24)B Agena-D",
+    "siteCode": "Va SLC-4W",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-093",
+    "date": "28.10.1971",
+    "vehicle": "Black Arrow",
+    "siteCode": "Wo",
+    "site": "Unknown",
+    "countryCode": "Unknown",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-094",
+    "date": "02.11.1971",
+    "vehicle": "Voskhod",
+    "siteCode": "Pl LC-41/1",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-095",
+    "date": "03.11.1971",
+    "vehicle": "Titan-3(23)C",
+    "siteCode": "CC LC-40",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-F10",
+    "date": "05.11.1971",
+    "vehicle": "Europa-2",
+    "siteCode": "Ko CECLES",
+    "site": "Centre Spatial Guyanais (CSG), Kourou, French Guiana, France",
+    "countryCode": "FR",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1971-096",
+    "date": "15.11.1971",
+    "vehicle": "Scout-B",
+    "siteCode": "SM",
+    "site": "Unknown",
+    "countryCode": "Unknown",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-097",
+    "date": "17.11.1971",
+    "vehicle": "Kosmos-2",
+    "siteCode": "Pl LC-133/1",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-098",
+    "date": "19.11.1971",
+    "vehicle": "Voskhod",
+    "siteCode": "Pl LC-43/3",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-099",
+    "date": "20.11.1971",
+    "vehicle": "Kosmos-3M",
+    "siteCode": "Pl LC-132/2",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-100",
+    "date": "24.11.1971",
+    "vehicle": "Molniya-M (Blok-ML)",
+    "siteCode": "Pl LC-43/4",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-F11",
+    "date": "24.11.1971",
+    "vehicle": "Kosmos-2",
+    "siteCode": "KY LC-86/4",
+    "site": "Unknown",
+    "countryCode": "Unknown",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1971-101",
+    "date": "29.11.1971",
+    "vehicle": "Kosmos-2",
+    "siteCode": "Pl LC-133/1",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-102",
+    "date": "29.11.1971",
+    "vehicle": "Kosmos-3M",
+    "siteCode": "Pl LC-132/1",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-103",
+    "date": "30.11.1971",
+    "vehicle": "Kosmos-3M",
+    "siteCode": "Pl LC-132/2",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-104",
+    "date": "02.12.1971",
+    "vehicle": "Kosmos-2",
+    "siteCode": "KY LC-86/4",
+    "site": "Unknown",
+    "countryCode": "Unknown",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-105",
+    "date": "02.12.1971",
+    "vehicle": "Kosmos-3M",
+    "siteCode": "Pl LC-132/1",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-F12",
+    "date": "03.12.1971",
+    "vehicle": "Voskhod",
+    "siteCode": "Pl LC-43/4",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1971-106",
+    "date": "03.12.1971",
+    "vehicle": "Tsiklon-2",
+    "siteCode": "Ba LC-90/20",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-F13",
+    "date": "04.12.1971",
+    "vehicle": "Atlas-SLV3A Agena-D",
+    "siteCode": "CC LC-13",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1971-F14",
+    "date": "05.12.1971",
+    "vehicle": "Diamant-B",
+    "siteCode": "Ko ELD",
+    "site": "Centre Spatial Guyanais (CSG), Kourou, French Guiana, France",
+    "countryCode": "FR",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1971-107",
+    "date": "06.12.1971",
+    "vehicle": "Voskhod",
+    "siteCode": "Ba LC-31/6",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-108",
+    "date": "10.12.1971",
+    "vehicle": "Voskhod",
+    "siteCode": "Pl LC-43/3",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-109",
+    "date": "11.12.1971",
+    "vehicle": "Scout-B1",
+    "siteCode": "Va SLC-5",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-110",
+    "date": "14.12.1971",
+    "vehicle": "Thorad-SLV2G Agena-D",
+    "siteCode": "Va SLC-1W",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-111",
+    "date": "15.12.1971",
+    "vehicle": "Kosmos-3M",
+    "siteCode": "Pl LC-132/2",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-112",
+    "date": "16.12.1971",
+    "vehicle": "Voskhod",
+    "siteCode": "Ba LC-31/6",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-113",
+    "date": "17.12.1971",
+    "vehicle": "Kosmos-2",
+    "siteCode": "Pl LC-133/1",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-114",
+    "date": "17.12.1971",
+    "vehicle": "Kosmos-3M",
+    "siteCode": "Pl LC-132/2",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-115",
+    "date": "19.12.1971",
+    "vehicle": "Molniya-M (Blok-ML)",
+    "siteCode": "Pl LC-43/4",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-116",
+    "date": "20.12.1971",
+    "vehicle": "Atlas-SLV3C Centaur-D",
+    "siteCode": "CC LC-36A",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-117",
+    "date": "25.12.1971",
+    "vehicle": "Tsiklon-2",
+    "siteCode": "Ba LC-90/19",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-118",
+    "date": "27.12.1971",
+    "vehicle": "Soyuz-M",
+    "siteCode": "Pl LC-41/1",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-119",
+    "date": "27.12.1971",
+    "vehicle": "Kosmos-3M",
+    "siteCode": "Pl LC-132/2",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1971-120",
+    "date": "29.12.1971",
+    "vehicle": "Vostok-2M",
+    "siteCode": "Pl LC-41/1",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "id": "1963-001",
+    "date": "04.01.1963",
+    "vehicle": "Molniya (E6)",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "Partial Failure",
+    "status": "failedp"
+  },
+  {
+    "id": "1963-002",
+    "date": "07.01.1963",
+    "vehicle": "Thor-DM21 Agena-D",
+    "siteCode": "Va 75-1-1",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-003",
+    "date": "16.01.1963",
+    "vehicle": "Thor-DM21 Agena-B",
+    "siteCode": "Va 75-3-5",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-F01",
+    "date": "03.02.1963",
+    "vehicle": "Molniya (E6)",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1963-004",
+    "date": "14.02.1963",
+    "vehicle": "Delta-B",
+    "siteCode": "CC LC-17B",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-005",
+    "date": "19.02.1963",
+    "vehicle": "Scout-X3M",
+    "siteCode": "Va LC-D",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-F02",
+    "date": "28.02.1963",
+    "vehicle": "Thor-SLV2A Agena-D",
+    "siteCode": "Va 75-3-5",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1963-F03",
+    "date": "18.03.1963",
+    "vehicle": "Thor-SLV2A Agena-D",
+    "siteCode": "Va 75-3-4",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1963-006",
+    "date": "21.03.1963",
+    "vehicle": "Vostok-2",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-007",
+    "date": "01.04.1963",
+    "vehicle": "Thor-DM21 Agena-D",
+    "siteCode": "Va 75-3-5",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-008",
+    "date": "02.04.1963",
+    "vehicle": "Molniya (E6)",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-009",
+    "date": "03.04.1963",
+    "vehicle": "Delta-B",
+    "siteCode": "CC LC-17B",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-F04",
+    "date": "05.04.1963",
+    "vehicle": "Scout-X3",
+    "siteCode": "Va LC-D",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1963-F05",
+    "date": "06.04.1963",
+    "vehicle": "Kosmos",
+    "siteCode": "KY Mayak-2",
+    "site": "Unknown",
+    "countryCode": "Unknown",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1963-010",
+    "date": "13.04.1963",
+    "vehicle": "Kosmos",
+    "siteCode": "KY Mayak-2",
+    "site": "Unknown",
+    "countryCode": "Unknown",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-011",
+    "date": "22.04.1963",
+    "vehicle": "Vostok-2",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-F06",
+    "date": "26.04.1963",
+    "vehicle": "Scout-X2M",
+    "siteCode": "Va LC-D",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1963-F07",
+    "date": "26.04.1963",
+    "vehicle": "Thor-DM21 Agena-D",
+    "siteCode": "Va 75-1-1",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1963-012",
+    "date": "28.04.1963",
+    "vehicle": "Vostok-2",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-013",
+    "date": "07.05.1963",
+    "vehicle": "Delta-B",
+    "siteCode": "CC LC-17B",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-014",
+    "date": "09.05.1963",
+    "vehicle": "Atlas-LV3 Agena-B",
+    "siteCode": "Va LC-1-2",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-015",
+    "date": "15.05.1963",
+    "vehicle": "Atlas-D Mercury",
+    "siteCode": "CC LC-14",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-016",
+    "date": "18.05.1963",
+    "vehicle": "Thor-SLV2A Agena-D",
+    "siteCode": "Va 75-3-5",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-017",
+    "date": "22.05.1963",
+    "vehicle": "Kosmos",
+    "siteCode": "KY Mayak-2",
+    "site": "Unknown",
+    "countryCode": "Unknown",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-018",
+    "date": "24.05.1963",
+    "vehicle": "Vostok-2",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-F08",
+    "date": "01.06.1963",
+    "vehicle": "Kosmos",
+    "siteCode": "KY Mayak-2",
+    "site": "Unknown",
+    "countryCode": "Unknown",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1963-F09",
+    "date": "12.06.1963",
+    "vehicle": "Atlas-LV3 Agena-B",
+    "siteCode": "Va LC-1-2",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1963-019",
+    "date": "12.06.1963",
+    "vehicle": "Thor-SLV2A Agena-D",
+    "siteCode": "Va 75-3-4",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-020",
+    "date": "14.06.1963",
+    "vehicle": "Vostok-K",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-021",
+    "date": "15.06.1963",
+    "vehicle": "Thor-DM21 Agena-D",
+    "siteCode": "Va 75-1-1",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "Partial failure",
+    "status": "failedp"
+  },
+  {
+    "id": "1963-022",
+    "date": "16.06.1963",
+    "vehicle": "Scout-X3",
+    "siteCode": "Va LC-D",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-023",
+    "date": "16.06.1963",
+    "vehicle": "Vostok-K",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-024",
+    "date": "19.06.1963",
+    "vehicle": "Delta-B",
+    "siteCode": "CC LC-17B",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-025",
+    "date": "27.06.1963",
+    "vehicle": "Thor-SLV2A Agena-D",
+    "siteCode": "Va 75-1-2",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-026",
+    "date": "28.06.1963",
+    "vehicle": "Scout-X4",
+    "siteCode": "WI LA-3",
+    "site": "Wallops Flight Facility, Wallops Island, Virginia, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-027",
+    "date": "29.06.1963",
+    "vehicle": "Thor-SLV2A Agena-B",
+    "siteCode": "Va 75-3-5",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-F10",
+    "date": "10.07.1963",
+    "vehicle": "Vostok-2",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "Pre-launch Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1963-028",
+    "date": "12.07.1963",
+    "vehicle": "Atlas-LV3 Agena-D",
+    "siteCode": "Va LC-2-3",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-029",
+    "date": "19.07.1963",
+    "vehicle": "Thor-DM21 Agena-D",
+    "siteCode": "Va 75-1-1",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-030",
+    "date": "19.07.1963",
+    "vehicle": "Atlas-LV3 Agena-B",
+    "siteCode": "Va LC-1-2",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-031",
+    "date": "26.07.1963",
+    "vehicle": "Delta-B",
+    "siteCode": "CC LC-17A",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-032",
+    "date": "31.07.1963",
+    "vehicle": "Thor-SLV2A Agena-D",
+    "siteCode": "Va 75-1-2",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-033",
+    "date": "06.08.1963",
+    "vehicle": "Kosmos",
+    "siteCode": "KY Mayak-2",
+    "site": "Unknown",
+    "countryCode": "Unknown",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-F11",
+    "date": "22.08.1963",
+    "vehicle": "Kosmos",
+    "siteCode": "KY Mayak-2",
+    "site": "Unknown",
+    "countryCode": "Unknown",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1963-034",
+    "date": "25.08.1963",
+    "vehicle": "Thor-SLV2A Agena-D",
+    "siteCode": "Va 75-3-4",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-035",
+    "date": "29.08.1963",
+    "vehicle": "Thor-DM21 Agena-D",
+    "siteCode": "Va 75-3-5",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-036",
+    "date": "06.09.1963",
+    "vehicle": "Atlas-LV3 Agena-D",
+    "siteCode": "Va LC-2-3",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-037",
+    "date": "23.09.1963",
+    "vehicle": "Thor-SLV2A Agena-D",
+    "siteCode": "Va 75-1-2",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-F12",
+    "date": "27.09.1963",
+    "vehicle": "Scout-X2B",
+    "siteCode": "Va LC-D",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1963-038",
+    "date": "28.09.1963",
+    "vehicle": "Thor-DSV2A Able-Star",
+    "siteCode": "Va 75-1-1",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-039",
+    "date": "17.10.1963",
+    "vehicle": "Atlas-LV3 Agena-D",
+    "siteCode": "CC LC-13",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-040",
+    "date": "18.10.1963",
+    "vehicle": "Vostok-2",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-F13",
+    "date": "24.10.1963",
+    "vehicle": "Kosmos",
+    "siteCode": "KY Mayak-2",
+    "site": "Unknown",
+    "countryCode": "Unknown",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1963-041",
+    "date": "25.10.1963",
+    "vehicle": "Atlas-LV3 Agena-D",
+    "siteCode": "Va LC-2-3",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-042",
+    "date": "29.10.1963",
+    "vehicle": "Thor-SLV2A Agena-D",
+    "siteCode": "Va 75-3-4",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-043",
+    "date": "01.11.1963",
+    "vehicle": "11A59 I1",
+    "siteCode": "Ba LC-31/6",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-F14",
+    "date": "09.11.1963",
+    "vehicle": "Thor-DM21 Agena-D",
+    "siteCode": "Va 75-1-2",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1963-044",
+    "date": "11.11.1963",
+    "vehicle": "Molniya",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-045",
+    "date": "16.11.1963",
+    "vehicle": "Voskhod",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-046",
+    "date": "27.11.1963",
+    "vehicle": "Delta-B",
+    "siteCode": "CC LC-17B",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-047",
+    "date": "27.11.1963",
+    "vehicle": "Atlas-LV3C Centaur-B",
+    "siteCode": "CC LC-36A",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-048",
+    "date": "27.11.1963",
+    "vehicle": "Thor-DM21 Agena-D",
+    "siteCode": "Va LC-1-1",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-F15",
+    "date": "28.11.1963",
+    "vehicle": "Vostok-2",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1963-049",
+    "date": "05.12.1963",
+    "vehicle": "Thor-DSV2A Able-Star",
+    "siteCode": "Va 75-1-1",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-050",
+    "date": "13.12.1963",
+    "vehicle": "Kosmos",
+    "siteCode": "KY Mayak-2",
+    "site": "Unknown",
+    "countryCode": "Unknown",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-051",
+    "date": "18.12.1963",
+    "vehicle": "Atlas-LV3 Agena-D",
+    "siteCode": "Va LC-2-3",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-052",
+    "date": "19.12.1963",
+    "vehicle": "Vostok-2",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-053",
+    "date": "19.12.1963",
+    "vehicle": "Scout-X4",
+    "siteCode": "Va LC-D",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-054",
+    "date": "21.12.1963",
+    "vehicle": "Delta-B",
+    "siteCode": "CC LC-17B",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1963-055",
+    "date": "21.12.1963",
+    "vehicle": "Thor-SLV2A Agena-D",
+    "siteCode": "Va 75-1-2",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  }
+]

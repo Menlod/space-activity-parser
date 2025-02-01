@@ -1,0 +1,282 @@
+[
+  {
+    "id": "1958 α (001)",
+    "date": "01.02.1958",
+    "vehicle": "Juno-1",
+    "siteCode": "CC LC-26A",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1958-F01",
+    "date": "05.02.1958",
+    "vehicle": "Vanguard",
+    "siteCode": "CC LC-18A",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1958-F02",
+    "date": "05.03.1958",
+    "vehicle": "Juno-1",
+    "siteCode": "CC LC-26A",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1958 β (002)",
+    "date": "17.03.1958",
+    "vehicle": "Vanguard",
+    "siteCode": "CC LC-18A",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1958 γ (003)",
+    "date": "26.03.1958",
+    "vehicle": "Juno-1",
+    "siteCode": "CC LC-5",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1958-F03",
+    "date": "27.04.1958",
+    "vehicle": "Sputnik (2)",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1958-F04",
+    "date": "29.04.1958",
+    "vehicle": "Vanguard",
+    "siteCode": "CC LC-18A",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1958 δ (004)",
+    "date": "15.05.1958",
+    "vehicle": "Sputnik (2)",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1958-F05",
+    "date": "28.05.1958",
+    "vehicle": "Vanguard",
+    "siteCode": "CC LC-18A",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1958-F06",
+    "date": "26.06.1958",
+    "vehicle": "Vanguard",
+    "siteCode": "CC LC-18A",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1958-F07",
+    "date": "25.07.1958",
+    "vehicle": "Pilot (NOTS-EV-1)",
+    "siteCode": "In, F-4D",
+    "site": "Unknown",
+    "countryCode": "Unknown",
+    "remark": "Failure ?",
+    "status": "failed"
+  },
+  {
+    "id": "1958 ε (005)",
+    "date": "26.07.1958",
+    "vehicle": "Juno-1",
+    "siteCode": "CC LC-5",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1958-F08",
+    "date": "12.08.1958",
+    "vehicle": "Pilot (NOTS-EV-1)",
+    "siteCode": "In, F-4D",
+    "site": "Unknown",
+    "countryCode": "Unknown",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1958-F09",
+    "date": "17.08.1958",
+    "vehicle": "Thor-DM18 Able-1",
+    "siteCode": "CC LC-17A",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1958-F10",
+    "date": "22.08.1958",
+    "vehicle": "Pilot (NOTS-EV-1)",
+    "siteCode": "In, F-4D",
+    "site": "Unknown",
+    "countryCode": "Unknown",
+    "remark": "Failure ?",
+    "status": "failed"
+  },
+  {
+    "id": "1958-F11",
+    "date": "24.08.1958",
+    "vehicle": "Juno-1",
+    "siteCode": "CC LC-5",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1958-F12",
+    "date": "25.08.1958",
+    "vehicle": "Pilot (NOTS-EV-1)",
+    "siteCode": "In, F-4D",
+    "site": "Unknown",
+    "countryCode": "Unknown",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1958-F13",
+    "date": "26.08.1958",
+    "vehicle": "Pilot (NOTS-EV-1)",
+    "siteCode": "In, F-4D",
+    "site": "Unknown",
+    "countryCode": "Unknown",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1958-F14",
+    "date": "28.08.1958",
+    "vehicle": "Pilot (NOTS-EV-1)",
+    "siteCode": "In, F-4D",
+    "site": "Unknown",
+    "countryCode": "Unknown",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1958-F15",
+    "date": "23.09.1958",
+    "vehicle": "Vostok-L",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1958-F16",
+    "date": "26.09.1958",
+    "vehicle": "Vanguard",
+    "siteCode": "CC LC-18A",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1958 η* (006)",
+    "date": "11.10.1958",
+    "vehicle": "Thor-DM18 Able-1",
+    "siteCode": "CC LC-17A",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "Partial Failure",
+    "status": "failedp"
+  },
+  {
+    "id": "1958-F17",
+    "date": "11.10.1958",
+    "vehicle": "Vostok-L",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1958-F18",
+    "date": "23.10.1958",
+    "vehicle": "Juno-1 (5 St.)",
+    "siteCode": "CC LC-5",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1958-F19",
+    "date": "08.11.1958",
+    "vehicle": "Thor-DM18 Able-1",
+    "siteCode": "CC LC-17A",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1958-F20",
+    "date": "04.12.1958",
+    "vehicle": "Vostok-L",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "Failure",
+    "status": "failed"
+  },
+  {
+    "id": "1958 θ* (007)",
+    "date": "06.12.1958",
+    "vehicle": "Juno-2",
+    "siteCode": "CC LC-5",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1958 ζ (008)",
+    "date": "18.12.1958",
+    "vehicle": "Atlas-B (mod.)",
+    "siteCode": "CC LC-11",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  }
+]

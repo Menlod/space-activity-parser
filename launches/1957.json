@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1957 α (001)",
+    "date": "04.10.1957",
+    "vehicle": "Sputnik (1)",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1957 β (002)",
+    "date": "03.11.1957",
+    "vehicle": "Sputnik (1)",
+    "siteCode": "Ba LC-1/5",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "KZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "1957-F01",
+    "date": "06.12.1957",
+    "vehicle": "Vanguard",
+    "siteCode": "CC LC-18A",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "Failure",
+    "status": "failed"
+  }
+]
