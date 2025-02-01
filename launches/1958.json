@@ -55,7 +55,7 @@
     "vehicle": "Sputnik (2)",
     "siteCode": "Ba LC-1/5",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "Failure",
     "status": "failed"
   },
@@ -75,7 +75,7 @@
     "vehicle": "Sputnik (2)",
     "siteCode": "Ba LC-1/5",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -195,7 +195,7 @@
     "vehicle": "Vostok-L",
     "siteCode": "Ba LC-1/5",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "Failure",
     "status": "failed"
   },
@@ -225,7 +225,7 @@
     "vehicle": "Vostok-L",
     "siteCode": "Ba LC-1/5",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "Failure",
     "status": "failed"
   },
@@ -255,7 +255,7 @@
     "vehicle": "Vostok-L",
     "siteCode": "Ba LC-1/5",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "Failure",
     "status": "failed"
   },

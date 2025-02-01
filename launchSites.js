@@ -1,7 +1,7 @@
 const launchSites = {
   Ba: {
     title: "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    code: "KZ",
+    code: "RU",
   },
   BC: {
     title: "Starbase (SpaceX South Texas Launch Site) , Boca Chica, Texas, USA",

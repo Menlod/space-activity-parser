@@ -55,7 +55,7 @@
     "vehicle": "Soyuz-U",
     "siteCode": "Ba LC-1/5",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -145,7 +145,7 @@
     "vehicle": "Proton-K Blok-DM-2",
     "siteCode": "Ba LC-81/24",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -155,7 +155,7 @@
     "vehicle": "Soyuz-FG",
     "siteCode": "Ba LC-1/5",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -215,7 +215,7 @@
     "vehicle": "Soyuz-FG Fregat",
     "siteCode": "Ba LC-31/6",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "Version 1st flight",
     "status": "success"
   },
@@ -235,7 +235,7 @@
     "vehicle": "Proton-K Briz-M",
     "siteCode": "Ba LC-200/39",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -245,7 +245,7 @@
     "vehicle": "Soyuz-U",
     "siteCode": "Ba LC-1/5",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -345,7 +345,7 @@
     "vehicle": "Soyuz-U",
     "siteCode": "Ba LC-31/6",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -395,7 +395,7 @@
     "vehicle": "Soyuz-U",
     "siteCode": "Ba LC-1/5",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -485,7 +485,7 @@
     "vehicle": "Soyuz-FG",
     "siteCode": "Ba LC-1/5",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -545,7 +545,7 @@
     "vehicle": "Proton-K Blok-DM-2M",
     "siteCode": "Ba LC-81/23",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -575,7 +575,7 @@
     "vehicle": "Strela",
     "siteCode": "Ba LC-175/59",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "Version 1st flight",
     "status": "success"
   },
@@ -585,7 +585,7 @@
     "vehicle": "Proton-K Briz-M",
     "siteCode": "Ba LC-81/24",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -615,7 +615,7 @@
     "vehicle": "Soyuz-FG Fregat",
     "siteCode": "Ba LC-31/6",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -625,7 +625,7 @@
     "vehicle": "Proton-K Blok-DM-2M",
     "siteCode": "Ba LC-200/39",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },

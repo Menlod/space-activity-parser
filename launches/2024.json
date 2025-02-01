@@ -285,7 +285,7 @@
     "vehicle": "Soyuz-2-1a",
     "siteCode": "Ba LC-31/6",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -565,7 +565,7 @@
     "vehicle": "Soyuz-2-1a",
     "siteCode": "Ba LC-31/6",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -625,7 +625,7 @@
     "vehicle": "Soyuz-2-1b",
     "siteCode": "Ba LC-31/6",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -1055,7 +1055,7 @@
     "vehicle": "Soyuz-2-1a",
     "siteCode": "Ba LC-31/6",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -1495,7 +1495,7 @@
     "vehicle": "Soyuz-2-1a",
     "siteCode": "Ba LC-31/6",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -1665,7 +1665,7 @@
     "vehicle": "Soyuz-2-1a",
     "siteCode": "Ba LC-31/6",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -2215,7 +2215,7 @@
     "vehicle": "Soyuz-2-1a",
     "siteCode": "Ba LC-31/6",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -2575,7 +2575,7 @@
     "vehicle": "Soyuz-2-1b",
     "siteCode": "Ba LC-31/6",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },

@@ -5,7 +5,7 @@
     "vehicle": "Proton-K Blok-D",
     "siteCode": "Ba LC-81/23",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -15,7 +15,7 @@
     "vehicle": "Voskhod",
     "siteCode": "Ba LC-31/6",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -55,7 +55,7 @@
     "vehicle": "Voskhod",
     "siteCode": "Ba LC-31/6",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -65,7 +65,7 @@
     "vehicle": "Molniya-M (Blok-ML)",
     "siteCode": "Ba LC-1/5",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -85,7 +85,7 @@
     "vehicle": "Molniya-M (Blok-SO-L)",
     "siteCode": "Ba LC-31/6",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -115,7 +115,7 @@
     "vehicle": "Voskhod",
     "siteCode": "Ba LC-31/6",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -165,7 +165,7 @@
     "vehicle": "Proton-K",
     "siteCode": "Ba LC-81/23",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -235,7 +235,7 @@
     "vehicle": "Tsiklon-2",
     "siteCode": "Ba LC-90",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "Failure",
     "status": "failed"
   },
@@ -265,7 +265,7 @@
     "vehicle": "Proton-K",
     "siteCode": "Ba LC-81/23",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -405,7 +405,7 @@
     "vehicle": "Voskhod",
     "siteCode": "Ba LC-1/5",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -435,7 +435,7 @@
     "vehicle": "Soyuz",
     "siteCode": "Ba LC-1/5",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -535,7 +535,7 @@
     "vehicle": "Proton-K Blok-D",
     "siteCode": "Ba LC-81/23",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -555,7 +555,7 @@
     "vehicle": "Proton-K Blok-D",
     "siteCode": "Ba LC-81/24",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -585,7 +585,7 @@
     "vehicle": "Proton-K Blok-D",
     "siteCode": "Ba LC-81/23",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -595,7 +595,7 @@
     "vehicle": "Proton-K Blok-D",
     "siteCode": "Ba LC-81/24",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -655,7 +655,7 @@
     "vehicle": "Voskhod",
     "siteCode": "Ba LC-1/5",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -685,7 +685,7 @@
     "vehicle": "Voskhod",
     "siteCode": "Ba LC-1/5",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -745,7 +745,7 @@
     "vehicle": "Soyuz",
     "siteCode": "Ba LC-1/5",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -805,7 +805,7 @@
     "vehicle": "Voskhod",
     "siteCode": "Ba LC-1/5",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -965,7 +965,7 @@
     "vehicle": "Molniya-M (Blok-ML)",
     "siteCode": "Ba LC-1/5",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -995,7 +995,7 @@
     "vehicle": "Voskhod",
     "siteCode": "Ba LC-1/5",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -1035,7 +1035,7 @@
     "vehicle": "Soyuz",
     "siteCode": "Ba LC-1/5",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -1105,7 +1105,7 @@
     "vehicle": "Soyuz",
     "siteCode": "Ba LC-1/5",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
@@ -1155,7 +1155,7 @@
     "vehicle": "Tsiklon-2",
     "siteCode": "Ba LC-90/19",
     "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
-    "countryCode": "KZ",
+    "countryCode": "RU",
     "remark": "",
     "status": "success"
   },
