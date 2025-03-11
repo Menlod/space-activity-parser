@@ -218,5 +218,265 @@
     "countryCode": "US",
     "remark": "",
     "status": "success"
+  },
+  {
+    "id": "2025-022",
+    "date": "01.02.2025",
+    "vehicle": "Falcon-9 v1.2 (Block 5)",
+    "siteCode": "Va SLC-4E",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "2025-023",
+    "date": "03.02.2024",
+    "vehicle": "H-3-22S",
+    "siteCode": "Ta YLP-2",
+    "site": "Tanegashima Space Center, Tanegashima, Japan",
+    "countryCode": "JP",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "2025-024",
+    "date": "04.02.2025",
+    "vehicle": "Falcon-9 v1.2 (Block 5)",
+    "siteCode": "CC SLC-40",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "2025-025",
+    "date": "04.02.2025",
+    "vehicle": "Falcon-9 v1.2 (Block 5)",
+    "siteCode": "CCK LC-39B",
+    "site": "NASA John F. Kennedy Space Center, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "2025-026",
+    "date": "05.02.2025",
+    "vehicle": "Soyuz-2-1v Volga",
+    "siteCode": "Pl LC-43/4",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "2025-027",
+    "date": "08.02.2025",
+    "vehicle": "Falcon-9 v1.2 (Block 5)",
+    "siteCode": "CCK LC-39A",
+    "site": "NASA John F. Kennedy Space Center, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "2025-028",
+    "date": "08.02.2025",
+    "vehicle": "Electron KS",
+    "siteCode": "OnS LC-1A",
+    "site": "Onenui Station, Mahia, Wairoa, North Island, New Zealand",
+    "countryCode": "NZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "2025-029",
+    "date": "11.02.2025",
+    "vehicle": "Falcon-9 v1.2 (Block 5)",
+    "siteCode": "Va SLC-4E",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "2025-030",
+    "date": "11.02.2025",
+    "vehicle": "CZ-8A",
+    "siteCode": "We LC-201",
+    "site": "Wenchang Space Launch Center (WSLC), Hainan, China",
+    "countryCode": "CN",
+    "remark": "Version 1st flight",
+    "status": "success"
+  },
+  {
+    "id": "2025-031",
+    "date": "11.02.2025",
+    "vehicle": "Falcon-9 v1.2 (Block 5)",
+    "siteCode": "CC SLC-40",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "2025-032",
+    "date": "15.02.2025",
+    "vehicle": "Falcon-9 v1.2 (Block 5)",
+    "siteCode": "CC SLC-40",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "2025-033",
+    "date": "18.02.2025",
+    "vehicle": "Electron KS",
+    "siteCode": "OnS LC-1B",
+    "site": "Onenui Station, Mahia, Wairoa, North Island, New Zealand",
+    "countryCode": "NZ",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "2025-034",
+    "date": "18.02.2025",
+    "vehicle": "Falcon-9 v1.2 (Block 5)",
+    "siteCode": "CC SLC-40",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "2025-035",
+    "date": "21.02.2025",
+    "vehicle": "Falcon-9 v1.2 (Block 5)",
+    "siteCode": "CC SLC-40",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "2025-036",
+    "date": "22.02.2025",
+    "vehicle": "CZ-3B/G2(2)",
+    "siteCode": "Xi LC-2",
+    "site": "Xichang Space Center (Songlin), Sichuan, China",
+    "countryCode": "CN",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "2025-037",
+    "date": "23.02.2025",
+    "vehicle": "Falcon-9 v1.2 (Block 5)",
+    "siteCode": "Va SLC-4E",
+    "site": "Vandenberg Space Force Base, California, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "2025-038",
+    "date": "27.02.2025",
+    "vehicle": "Falcon-9 v1.2 (Block 5)",
+    "siteCode": "CCK LC-39A",
+    "site": "NASA John F. Kennedy Space Center, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "2025-039",
+    "date": "27.02.2025",
+    "vehicle": "Falcon-9 v1.2 (Block 5)",
+    "siteCode": "CC SLC-40",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "2025-040",
+    "date": "27.02.2025",
+    "vehicle": "CZ-2C (3)",
+    "siteCode": "Jq LC-43/94",
+    "site": "Jiuquan Space Center, Inner Mongolia, China",
+    "countryCode": "CN",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "2025-041",
+    "date": "27.02.2025",
+    "vehicle": "Soyuz-2-1a",
+    "siteCode": "Ba LC-31/6",
+    "site": "Baikonur (Tyuratam, NIIP-5, GIK-5), Tyuratam, Kazakhstan",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "2025-F02",
+    "date": "01.03.2025",
+    "vehicle": "Kuaizhou-1A ?",
+    "siteCode": "Jq LP-43/95A",
+    "site": "Jiuquan Space Center, Inner Mongolia, China",
+    "countryCode": "CN",
+    "remark": "possibly pre-launch failure",
+    "status": "failed"
+  },
+  {
+    "id": "2025-042",
+    "date": "02.03.2025",
+    "vehicle": "Soyuz-2-1b Fregat",
+    "siteCode": "Pl LC-43/3",
+    "site": "Plesetsk (NIIP-53, GIK-1, GNIIP), Russia",
+    "countryCode": "RU",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "2025-043",
+    "date": "03.03.2025",
+    "vehicle": "Falcon-9 v1.2 (Block 5)",
+    "siteCode": "CC SLC-40",
+    "site": "Cape Canaveral Space Force Station, Eastern Test Range, Cape Canaveral, Florida, USA",
+    "countryCode": "US",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "2025-044",
+    "date": "06.03.2025",
+    "vehicle": "Ariane-62",
+    "siteCode": "Ko ELA-4",
+    "site": "Centre Spatial Guyanais (CSG), Kourou, French Guiana, France",
+    "countryCode": "FR",
+    "remark": "",
+    "status": "success"
+  },
+  {
+    "id": "2025-F03",
+    "date": "07.03.2025",
+    "vehicle": "Starship B14/S34",
+    "siteCode": "BC OLP-A",
+    "site": "Starbase (SpaceX South Texas Launch Site) , Boca Chica, Texas, USA",
+    "countryCode": "US",
+    "remark": "marginally orbital / failed",
+    "status": "failed"
+  },
+  {
+    "id": "2025-045",
+    "date": "09.03.2025",
+    "vehicle": "CZ-3B/G2(2)",
+    "siteCode": "Xi",
+    "site": "Xichang Space Center (Songlin), Sichuan, China",
+    "countryCode": "CN",
+    "remark": "",
+    "status": "success"
   }
 ]
